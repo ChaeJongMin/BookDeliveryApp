@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".mypage">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/fm_textName"
+                android:layout_width="214dp"
+                android:layout_height="60dp"
+                android:text="이름" />
+
+            <TextView
+                android:id="@+id/fm_textid"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:text="TextView" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="79dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/fm_textpasswd"
+                android:layout_width="104dp"
+                android:layout_height="55dp"
+                android:text="비밀번호" />
+
+            <EditText
+                android:id="@+id/fm_editTextpasswd"
+                android:layout_width="227dp"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:text="Name" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="83dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="110dp"
+                android:layout_height="47dp"
+                android:text="도서관" />
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="121dp"
+                android:layout_height="45dp"
+                android:text="TextView" />
+
+            <Button
+                android:id="@+id/fm_btn_lib"
+                android:layout_width="107dp"
+                android:layout_height="61dp"
+                android:text="변경" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="86dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="114dp"
+                android:layout_height="45dp"
+                android:text="전화번호" />
+
+            <EditText
+                android:id="@+id/fm_editTextPhone"
+                android:layout_width="232dp"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="phone" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="86dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="115dp"
+                android:layout_height="52dp"
+                android:text="주소" />
+
+            <EditText
+                android:id="@+id/fm_textaddress"
+                android:layout_width="229dp"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:text="Name" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/fm_btnDelivery"
+            android:layout_width="147dp"
+            android:layout_height="58dp"
+            android:text="배달현황" />
+
+    </LinearLayout>
+</FrameLayout>

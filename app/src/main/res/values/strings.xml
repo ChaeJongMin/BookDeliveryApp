@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="main_desc">
+        도서관 회원님의 아이디와 비밀번호를 입력해주세요.
+    </string>
+    <string name="password_txt">비밀번호가 기억나지 않으세요?</string>
+    <string name="title_activity_select_library_maps">SelectLibraryMaps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_select_lib">SelectLib</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

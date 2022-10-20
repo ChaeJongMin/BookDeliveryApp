@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/drawable/ic_launcher_background.xml" value="0.265625" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/activity_booklist.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/activity_deliveryman_showmap.xml" value="0.4" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/activity_deliveryorderlist.xml" value="0.3049792531120332" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/activity_detail_orderpage.xml" value="0.5" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/activity_intro.xml" value="0.5" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/activity_login.xml" value="0.6" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/activity_maps.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/activity_naver_map.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/activity_naver_mpas.xml" value="0.13240740740740742" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/activity_select_lib.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/activity_select_lib_loc.xml" value="0.25" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/activity_select_library_maps.xml" value="0.271875" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/activity_selectlibrary_map.xml" value="0.271875" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/activity_selectmap.xml" value="0.22" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/activity_tabmenu.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/bookitem.xml" value="0.5496402877697841" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/fragment_customemap.xml" value="0.33" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/fragment_customer_maps.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/fragment_empty_order.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/fragment_mypage.xml" value="0.5" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/fragment_rental_list.xml" value="0.33" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/orderitem_recycler.xml" value="0.33" />
+        <entry key="..\:/Users/dico2/AndroidStudioProjects/Reigster_Show/app/src/main/res/layout/rentallist.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
